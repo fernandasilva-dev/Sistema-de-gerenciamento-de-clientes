@@ -1,0 +1,15 @@
+{
+  "name": "sistema-de-gerenciamento-de-clientes",
+  "version": "1.0.0",
+  "description": "Lista 3 da matéria de Desenvolvimento Web II - ADS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernanda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
